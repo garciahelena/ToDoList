@@ -15,7 +15,6 @@ and I wanted a fast way to note them down.
 ## ✨ Features
 
 - Add tasks with a text input
-- [Check which of these your `script.js` does and delete the rest:]
 - Mark tasks as completed
 - Delete tasks
 - Tasks are saved in the browser between visits (`localStorage`)
@@ -36,22 +35,6 @@ cd ToDoList
 ```
 Then open `index.html` in your browser.
 
-## 🗺️ Roadmap
-
-**Better for one person**
-- [ ] Due dates and priority levels
-- [ ] Categories (events, sponsors, social media...)
-- [ ] Search and filter by status
-- [ ] Edit existing tasks
-- [ ] Drag-and-drop reordering
-
-**Shared with the committee**
-- [ ] Backend and database so everyone sees the same list
-- [ ] Assign tasks to committee members
-- [ ] Login, so each member has an account
-- [ ] Task history (who changed what and when)
-- [ ] Deploy online
-
 > **Why it isn't shared yet:** right now tasks live in each person's own browser,
 > so other people can't see them. Sharing needs a server and database, which is the
 > main goal for the next version.
@@ -70,7 +53,7 @@ ToDoList/
 ## 🧠 What I learned
 
 - Handling click events and updating the page with JavaScript (DOM manipulation)
-- [Add 2 to 3 real lessons, e.g. using `localStorage`, toggling CSS classes]
+  
 
 ## 📫 Contact
 
